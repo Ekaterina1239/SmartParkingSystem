@@ -1,0 +1,12 @@
+C:\Users\Asus\Desktop\SmartParkingSystem.UI\SmartParkingSystem.Core\bin\Debug\net8.0\SmartParkingSystem.Core.deps.json
+C:\Users\Asus\Desktop\SmartParkingSystem.UI\SmartParkingSystem.Core\bin\Debug\net8.0\SmartParkingSystem.Core.dll
+C:\Users\Asus\Desktop\SmartParkingSystem.UI\SmartParkingSystem.Core\bin\Debug\net8.0\SmartParkingSystem.Core.pdb
+C:\Users\Asus\Desktop\SmartParkingSystem.UI\SmartParkingSystem.Core\obj\Debug\net8.0\SmartParkingSystem.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\SmartParkingSystem.UI\SmartParkingSystem.Core\obj\Debug\net8.0\SmartParkingSystem.Core.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\SmartParkingSystem.UI\SmartParkingSystem.Core\obj\Debug\net8.0\SmartParkingSystem.Core.AssemblyInfo.cs
+C:\Users\Asus\Desktop\SmartParkingSystem.UI\SmartParkingSystem.Core\obj\Debug\net8.0\SmartParkingSystem.Core.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\SmartParkingSystem.UI\SmartParkingSystem.Core\obj\Debug\net8.0\SmartParkingSystem.Core.sourcelink.json
+C:\Users\Asus\Desktop\SmartParkingSystem.UI\SmartParkingSystem.Core\obj\Debug\net8.0\SmartParkingSystem.Core.dll
+C:\Users\Asus\Desktop\SmartParkingSystem.UI\SmartParkingSystem.Core\obj\Debug\net8.0\refint\SmartParkingSystem.Core.dll
+C:\Users\Asus\Desktop\SmartParkingSystem.UI\SmartParkingSystem.Core\obj\Debug\net8.0\SmartParkingSystem.Core.pdb
+C:\Users\Asus\Desktop\SmartParkingSystem.UI\SmartParkingSystem.Core\obj\Debug\net8.0\ref\SmartParkingSystem.Core.dll
