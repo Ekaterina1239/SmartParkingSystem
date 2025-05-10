@@ -1,0 +1,16 @@
+C:\Users\Asus\Desktop\SmartParkingSystem.UI\SmartParkingSystem.Services\bin\Debug\net8.0\SmartParkingSystem.Services.deps.json
+C:\Users\Asus\Desktop\SmartParkingSystem.UI\SmartParkingSystem.Services\bin\Debug\net8.0\SmartParkingSystem.Services.dll
+C:\Users\Asus\Desktop\SmartParkingSystem.UI\SmartParkingSystem.Services\bin\Debug\net8.0\SmartParkingSystem.Services.pdb
+C:\Users\Asus\Desktop\SmartParkingSystem.UI\SmartParkingSystem.Services\bin\Debug\net8.0\SmartParkingSystem.Core.dll
+C:\Users\Asus\Desktop\SmartParkingSystem.UI\SmartParkingSystem.Services\bin\Debug\net8.0\SmartParkingSystem.Core.pdb
+C:\Users\Asus\Desktop\SmartParkingSystem.UI\SmartParkingSystem.Services\obj\Debug\net8.0\SmartParkingSystem.Services.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\SmartParkingSystem.UI\SmartParkingSystem.Services\obj\Debug\net8.0\SmartParkingSystem.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\SmartParkingSystem.UI\SmartParkingSystem.Services\obj\Debug\net8.0\SmartParkingSystem.Services.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\SmartParkingSystem.UI\SmartParkingSystem.Services\obj\Debug\net8.0\SmartParkingSystem.Services.AssemblyInfo.cs
+C:\Users\Asus\Desktop\SmartParkingSystem.UI\SmartParkingSystem.Services\obj\Debug\net8.0\SmartParkingSystem.Services.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\SmartParkingSystem.UI\SmartParkingSystem.Services\obj\Debug\net8.0\SmartParkingSystem.Services.sourcelink.json
+C:\Users\Asus\Desktop\SmartParkingSystem.UI\SmartParkingSystem.Services\obj\Debug\net8.0\SmartPar.C34C4643.Up2Date
+C:\Users\Asus\Desktop\SmartParkingSystem.UI\SmartParkingSystem.Services\obj\Debug\net8.0\SmartParkingSystem.Services.dll
+C:\Users\Asus\Desktop\SmartParkingSystem.UI\SmartParkingSystem.Services\obj\Debug\net8.0\refint\SmartParkingSystem.Services.dll
+C:\Users\Asus\Desktop\SmartParkingSystem.UI\SmartParkingSystem.Services\obj\Debug\net8.0\SmartParkingSystem.Services.pdb
+C:\Users\Asus\Desktop\SmartParkingSystem.UI\SmartParkingSystem.Services\obj\Debug\net8.0\ref\SmartParkingSystem.Services.dll
